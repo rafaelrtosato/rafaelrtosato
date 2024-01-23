@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil rafaelrtosato
+## Bem-vindo(a) ao perfil de rafaelrtosato
 
  <div>
    <a href="https://github.com/rafaelrtosato">
